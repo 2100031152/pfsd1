@@ -1,2 +1,2 @@
 print("hii")
-print('ewww')
+print('Bhikku')
